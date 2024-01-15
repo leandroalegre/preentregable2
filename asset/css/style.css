@@ -1,0 +1,22 @@
+
+header {
+    width: 100%;
+    z-index: 100;
+}
+
+
+
+.footer .redes{
+    text-align: center;
+    image-rendering: 35px;
+  }
+  
+  .footer .redes a {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-decoration: none;
+  }
+  
+  .footer .texto {
+    text-align: center;
+  }
